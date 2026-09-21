@@ -1,40 +1,11 @@
-# Hi, I am Pranay Ingole 👋
+### Hello! I am Pranay Ingole 👋
 
-### Java Backend Developer
+- I am a **Software Engineer focused on Java Backend Development**, with experience building applications using Java and Spring Boot, designing REST APIs, working with relational databases, and developing reliable, maintainable backend systems.
+- My work also extends into **DevOps and cloud-native engineering**, where I work with containerization, Kubernetes, CI/CD, and cloud technologies to take applications from development through deployment.
+- I am currently expanding my engineering capabilities into **Machine Learning and AI**, exploring how intelligent systems can be integrated into practical software applications.
+- I leverage my technical acumen to bridge the gap between development and operations, ensuring seamless collaboration, and fostering a culture of continuous improvement and learning.
 
-I build backend systems with **Java and Spring Boot**, with a focus on transactional workflows, REST APIs, PostgreSQL, testing, and cloud-native engineering.
+You can find me:
 
-### 🛠️ Technical Focus
-
-* **Backend:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-* **APIs:** REST APIs, validation, exception handling, idempotency
-* **Databases:** PostgreSQL, SQL, database design
-* **Testing:** JUnit, integration testing, Testcontainers
-* **Cloud & DevOps:** Docker, Kubernetes, Helm, GitHub Actions, Argo CD
-* **Infrastructure:** MinIO, Redis, Kafka
-* **Cloud:** AWS
-* **Frontend:** React, Vite
-* **Tools:** Git, Maven, Linux
-
-### 🚀 Featured Projects
-
-#### 💳 PayFlow — Distributed Digital Wallet & Payment Platform
-- A Java/Spring Boot modular-monolith payment platform focused on transactional financial workflows.
-[View PayFlow →](https://github.com/PranayIngole7/payflow)
----
-
-#### 🖼️ Cloud-Native Thumbnail Pipeline
-- A cloud-native image thumbnail processing service built with FastAPI and designed for Kubernetes-based deployment.
-[View Cloud-Native Thumbnail Pipeline →](https://github.com/PranayIngole7/cloud-native-thumbnail-pipeline)
----
-
-#### 🎵 NaadaGangaa
-- A full-stack application built with Spring Boot and React.
-[View NaadaGangaa →](https://github.com/PranayIngole7/NaadaGangaa)
----
-
-### 🔗 Connect
-
-* **LinkedIn:** https://www.linkedin.com/in/pranayingole1/
-* **GitHub:** https://github.com/PranayIngole7
-
+* [GitHub](https://github.com/PranayIngole7) (you are here)
+* [LinkedIn](https://www.linkedin.com/in/pranayingole1/)
