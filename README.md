@@ -1,7 +1,7 @@
 ### Hello! I am Pranay Ingole 👋
 
 **Software Engineer | Java Backend & DevOps** 
-> Java • Spring Boot • Rest API • PostgreSQL • Docker • Kubernetes • CI/CD • Cloud
+> Java • Spring Boot • Rest API • PostgreSQL • Docker • Kubernetes • CI/CD • Cloud • Python • ML • AI
 - **Building** reliable backend systems, **Automating** cloud deployments, and **Integrating** AI into practical applications.
 
 You can connect me on [LinkedIn](https://www.linkedin.com/in/pranayingole1/).
